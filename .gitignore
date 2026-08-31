@@ -14,3 +14,7 @@ Thumbs.db
 
 # Large / regenerable artifacts (keep if you want them browsable on GitHub)
 # data/asset_returns.csv
+
+# Local study notes (kept off the public repo, as in Projects 1 and 3)
+EXPLAINERS.md
+PANDAS_CHEATSHEET.md
